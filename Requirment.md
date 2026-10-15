@@ -1,0 +1,17 @@
+absl-py==2.3.1
+attrs==26.1.0
+cffi==2.0.0
+flatbuffers==25.12.19
+gTTS==2.5.4
+jax==0.6.2
+jaxlib==0.6.2
+mediapipe==0.10.11
+ml-dtypes==0.5.4
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+opencv-python==4.8.0.74
+protobuf==3.20.3
+pycparser==2.23
+pygame==2.6.1
+scipy==1.15.3
+sounddevice==0.5.3
